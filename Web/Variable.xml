@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<variables>
+    <variable>
+        <name>username</name>
+        <value>Kai</value>
+    </variable>
+    <variable>
+        <name>email</name>
+        <value>kai@gmail.com</value>
+    </variable>
+    <variable>
+        <name>age</name>
+        <value>30</value>
+    </variable>
+    <variable>
+        <name>isAdmin</name>
+        <value>true</value>
+    </variable>
+</variables>
